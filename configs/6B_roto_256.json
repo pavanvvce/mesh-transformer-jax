@@ -24,7 +24,9 @@
   "bucket": "gptj_tuning_bucket",
   "model_dir": "mesh_jax_pile_6B_rotary",
   "train_set": "quotes_train.index",
-  "val_set": "quotes.val.index",
+   "val_set": {
+    "pile": "quotes.val.index",
+  },
   "eval_harness_tasks": [
     "lambada",
     "piqa",
