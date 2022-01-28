@@ -1,1 +1,1 @@
-gs://gptj_tuning_bucket/gptj_tuning_bucket/tf_records_folder/validationData_Quotes.tfrecords
+gs://gptj_tuning_bucket/tf_records_folder/validationData_Quotes.tfrecords
