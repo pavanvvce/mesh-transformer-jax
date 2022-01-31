@@ -1,4 +1,1 @@
-gs://neo-datasets/pile_new_inputs_shuffled/train/trainingData_Quotes.tfrecords
-
-
-
+gs://gptj_bucket_copy/tf_records_folder/trainingData_Quotes.tfrecords
