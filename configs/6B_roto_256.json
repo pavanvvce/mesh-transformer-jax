@@ -25,8 +25,7 @@
   "train_set": "quotes_train.index",
   "val_set":  "quotes.val.index",
   "val_set": {
-    "pile": "quotes.val.index",
-    "owt": ""
+    "pile": "quotes.val.index"
   },
   "eval_harness_tasks": [
   ],
