@@ -22,7 +22,7 @@
 
   "bucket": "gptj_bucket_copy",
   "model_dir": "gptj_bucket_copy_model_v2",
-  "train_set": "quotes_train.index",
+  "train_set": "quotes_train_v2.index",
   "val_set": {},
   "eval_harness_tasks": [
   ],
