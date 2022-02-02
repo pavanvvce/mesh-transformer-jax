@@ -21,7 +21,7 @@
   "tpu_size": 8,
 
   "bucket": "gptj_tuning_bucket",
-  "model_dir": "gptj_tuning_bucket_model_v1",
+  "model_dir": "gptj_tuning_bucket_model_v2",
   "train_set": "quotes_train.index",
   "val_set": {},
   "eval_harness_tasks": [
@@ -33,7 +33,7 @@
   "keep_every": 72,
 
 
-  "name": "GPTJ_Quotes_Training_Basic_v1",
-  "wandb_project": "GPTJ_Quotes_Training_Basic_v1",
+  "name": "GPTJ_Quotes_Training_Basic_v2",
+  "wandb_project": "GPTJ_Quotes_Training_Basic_v2",
   "comment": ""
 }
